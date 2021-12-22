@@ -2,13 +2,13 @@
 An introduction into the Scala programming language
 
 ## Installation 
-First download scala: 
+1. First download scala: 
 ```sudo apt-get install scala ```
 
-Then create a .Scala file
+2. Then create a .Scala file
 ```vim hello.Scala```
 
-Populate the file as follows: 
+3. Populate the file as follows: 
 ``` scala
 object World 
 { 
@@ -20,5 +20,5 @@ object World
 
 ```
 
-Run the programme: 
+4. Run the programme: 
 ```scala World```
